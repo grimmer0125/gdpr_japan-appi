@@ -1,10 +1,9 @@
 # GDPR and Japan APPI
 
 
-Below is the comparison table of GDPR (EU) and Japan APPI (v2020) .  
+Below is the comparison table of GDPR (EU) and APPI (Japan, v2020).  
 
-The formal name of the Japan APPI is `Act on the Protection of Personal Information (APPI)` 
-- its last amended version is v2020 will be put into effect on April 1, 2022.
+The formal name of the Japan APPI is `Act on the Protection of Personal Information (APPI)`, and sometimes is is named **Personal Information Protection Law**. Its last amended version is v2020 will be put into effect on April 1, 2022.
 
 |  | GDPR (EU) | APPI (Japan) 個人情報保護法 |
 |---|---|---|
